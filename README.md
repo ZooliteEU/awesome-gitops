@@ -5,6 +5,7 @@ A curated list with links to interesting articles and blog posts and tools
 ### Articles/blog posts
 ### Tools
 - [Flux](https://fluxcd.io/)
+- [Flagger - delivery tool that automates the release process for applications running on Kubernetes](https://github.com/fluxcd/flagger)
 
 ## Auditing
 ### Articles/blog posts
